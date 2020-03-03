@@ -1,5 +1,13 @@
 ## Data structures and algorithms
 
+#### Contents
+1. [Bubble sort](https://www.tusharsrivastava.me)
+2. [Insertion sort](https://www.tusharsrivastava.me)
+3. [Selection sort](https://www.tusharsrivastava.me)
+4. [Merge sort](https://www.tusharsrivastava.me)
+5. [Heap sort](https://www.tusharsrivastava.me)
+6. [Quick sort](https://www.tusharsrivastava.me)
+
 You can use the [editor on GitHub](https://github.com/treetrails/gray-guide/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
